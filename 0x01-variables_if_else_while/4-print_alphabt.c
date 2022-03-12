@@ -5,7 +5,7 @@
  * followed by a new line, except q and e
  * Return: Always 0 (Success)
  */
-int mai(void)
+int main(void)
 {
 	char ch = 'a';
 
